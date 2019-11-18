@@ -17,7 +17,7 @@ a:focus {
 
 .navbar,
 .footer {
-    background-image: linear-gradient(120deg, #071058, #0BEDF8);
+    background-image: linear-gradient(0deg, #000203, #000000);
     /*background-color: #00A2E2;*/
     color: white;
 }
